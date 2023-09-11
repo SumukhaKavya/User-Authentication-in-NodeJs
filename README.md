@@ -18,6 +18,11 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed on your machine.
 - MongoDB installed and running on your system.
 
+## Getting started
+
+- Install the required dependencies using npm install
+- Start the server using node app.js
+
 ## Usage
 
 - Visit http://localhost:5000/signup to register a new user.
